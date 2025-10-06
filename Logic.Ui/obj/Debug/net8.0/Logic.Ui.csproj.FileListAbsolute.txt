@@ -1,0 +1,11 @@
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\bin\Debug\net8.0\Logic.Ui.deps.json
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\bin\Debug\net8.0\Logic.Ui.dll
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\bin\Debug\net8.0\Logic.Ui.pdb
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\obj\Debug\net8.0\Logic.Ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\obj\Debug\net8.0\Logic.Ui.AssemblyInfoInputs.cache
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\obj\Debug\net8.0\Logic.Ui.AssemblyInfo.cs
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\obj\Debug\net8.0\Logic.Ui.csproj.CoreCompileInputs.cache
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\obj\Debug\net8.0\Logic.Ui.dll
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\obj\Debug\net8.0\refint\Logic.Ui.dll
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\obj\Debug\net8.0\Logic.Ui.pdb
+C:\Users\Arslan Ameen\source\repos\Demo_MVVM\Logic.Ui\obj\Debug\net8.0\ref\Logic.Ui.dll

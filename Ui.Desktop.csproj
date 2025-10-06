@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Demo_MVVM\Demo_MVVM.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Logic.Ui\Logic.Ui.csproj" />
+  </ItemGroup>
+
+</Project>
